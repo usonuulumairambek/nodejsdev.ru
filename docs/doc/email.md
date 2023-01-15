@@ -108,3 +108,4 @@ await transporter.sendMail({
 - `contentDisposition`;
 - `encoding` - кодировка содержимого файла;
 - `raw` - задание файла в “сыром” формате.
+.
